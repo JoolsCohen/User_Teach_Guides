@@ -45,7 +45,7 @@
 
 ---
 
-**Author:** JoolsCohen  
+**Author:** Julia Cohen  
 *Technical Writer & Documentation Specialist*
 
 🐙 [GitHub](https://github.com/JoolsCohen) | 💬 [Telegram](https://t.me/sinichka_nevrostenichka)
